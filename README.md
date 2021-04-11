@@ -1,6 +1,6 @@
 # Improving Clarification Question Generation using Global Knowledge
 
-> This repository contains code for the model described in the following paper:
+Code coming soon for the model described in the following paper:
 
 Ask what’s missing and what’s useful: Improving Clarification Question Generation using Global Knowledge<br/>
 <i>To appear in the proceedings of Association of Computational Linguistics ACL2020</i><br/>
