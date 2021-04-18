@@ -3,7 +3,7 @@
 Code coming soon for the model described in the following paper:
 
 <a href="https://arxiv.org/abs/2104.06828">Ask what’s missing and what’s useful: Improving Clarification Question Generation using Global Knowledge</a><br/>
-<i>To appear in the proceedings of Association of Computational Linguistics ACL2020</i><br/>
+<i>To appear in the proceedings of North American Association of Computational Linguistics (NAACL) 2021</i><br/>
 Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley and Julian McAuley<br/>
 Microsoft Research, Redmond, WA, USA <br/>
 
